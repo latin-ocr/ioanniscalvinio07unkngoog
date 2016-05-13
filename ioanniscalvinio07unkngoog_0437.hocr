@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio07unkngoog_0437.png"; bbox 0 0 5059 6059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1715 1971 2847 2140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1715 1971 2847 2140">
+     <span class='ocr_line' id='line_1_1' title="bbox 1715 1971 2847 2140; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 1715 1971 2847 2140; x_wconf 87' lang='lat' dir='ltr'>HOMILIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 564 2458 4345 2732">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 564 2458 4345 2732">
+     <span class='ocr_line' id='line_1_2' title="bbox 564 2458 4345 2732; baseline -0.002 -7"><span class='ocrx_word' id='word_1_2' title='bbox 564 2557 811 2725; x_wconf 82' lang='lat' dir='ltr'>[N</span> <span class='ocrx_word' id='word_1_3' title='bbox 902 2557 1807 2725; x_wconf 78' lang='lat' dir='ltr'>PRIMUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1898 2553 2772 2722; x_wconf 77' lang='lat' dir='ltr'>LIBRUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 2863 2458 4013 2732; x_wconf 75' lang='lat' dir='ltr'>SAMUELls.</span> <span class='ocrx_word' id='word_1_6' title='bbox 4341 2713 4345 2717; x_wconf 73' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2177 3342 2701 3350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2177 3342 2701 3350">
+     <span class='ocr_line' id='line_1_3' title="bbox 2177 3342 2701 3350; baseline 0.004 -2"><span class='ocrx_word' id='word_1_7' title='bbox 2177 3342 2701 3350; x_wconf 73' lang='lat'>———-————--——</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 445 5322 1317 5393">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 445 5322 1317 5393">
+     <span class='ocr_line' id='line_1_4' title="bbox 445 5322 1317 5393; baseline -0.006 -11"><span class='ocrx_word' id='word_1_8' title='bbox 445 5325 678 5381; x_wconf 76' lang='lat' dir='ltr'>Galm&#39;m&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 710 5341 896 5393; x_wconf 77' lang='lat' dir='ltr'><strong><em>opera.</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 976 5324 1076 5378; x_wconf 84' lang='lat' dir='ltr'>Vol</span> <span class='ocrx_word' id='word_1_11' title='bbox 1124 5322 1317 5377; x_wconf 81' lang='lat' dir='ltr'>XXX.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
